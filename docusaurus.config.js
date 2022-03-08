@@ -58,7 +58,7 @@ const config = {
           { to: "/mark", label: "书签", position: "left" },
           { to: "/blog", label: "博客", position: "left" },
           {
-            href: "https://github.com/HuangChenglee",
+            href: "https://github.com/Skylooker-hub",
             label: "GitHub",
             position: "right",
           },
