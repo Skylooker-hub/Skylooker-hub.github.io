@@ -13,8 +13,8 @@ const config = {
   onBrokenLinks: "throw",
   onBrokenMarkdownLinks: "warn",
   favicon: "img/favicon.ico",
-  organizationName: "facebook", // Usually your GitHub org/user name.
-  projectName: "docusaurus", // Usually your repo name.
+  organizationName: "skylooker", // Usually your GitHub org/user name.
+  projectName: "skylooker", // Usually your repo name.
 
   presets: [
     [
@@ -25,7 +25,7 @@ const config = {
           sidebarPath: require.resolve("./sidebars.js"),
           // Please change this to your repo.
           editUrl:
-            "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/",
+            "",
         },
         blog: {
           showReadingTime: true,
@@ -33,7 +33,7 @@ const config = {
           // Please change this to your repo.
           blogSidebarTitle: "最近的博客",
           editUrl:
-            "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/",
+            "",
         },
         theme: {
           customCss: require.resolve("./src/css/custom.css"),
