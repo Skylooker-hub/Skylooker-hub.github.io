@@ -8,7 +8,7 @@ const darkCodeTheme = require("prism-react-renderer/themes/dracula");
 const config = {
   title: "Skylooker 博客",
   tagline: "你好，我是一名前端程序员，在这里分享知识存档、书签和博客",
-  url: "https://your-docusaurus-test-site.com",
+  url: "https://skylooker-hub.github.io/",
   baseUrl: "/",
   onBrokenLinks: "throw",
   onBrokenMarkdownLinks: "warn",
