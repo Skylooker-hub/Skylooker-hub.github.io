@@ -15,7 +15,6 @@ const config = {
   favicon: "img/favicon.ico",
   organizationName: "Skylooker-hub", // Usually your GitHub org/user name.
   projectName: "Skylooker-hub.github.io", // Usually your repo name.
-  deploymentBranch: "main",
 
   presets: [
     [
