@@ -25,16 +25,16 @@ const config = {
         docs: {
           sidebarPath: require.resolve("./sidebars.js"),
           // Please change this to your repo.
-          editUrl:
-            "https://github.com/Skylooker-hub/Skylooker-hub.github.io/",
+          // editUrl:
+          //   "https://github.com/Skylooker-hub/Skylooker-hub.github.io/",
         },
         blog: {
           showReadingTime: true,
           blogTitle: "博客",
           // Please change this to your repo.
           blogSidebarTitle: "最近的博客",
-          editUrl:
-            "https://github.com/Skylooker-hub/Skylooker-hub.github.io/",
+          // editUrl:
+          //   "https://github.com/Skylooker-hub/Skylooker-hub.github.io/",
         },
         theme: {
           customCss: require.resolve("./src/css/custom.css"),

@@ -3,30 +3,6 @@
     "message": "Hello! 我是",
     "description": "hero greet"
   },
-  "峰华": {
-    "message": "峰华",
-    "description": "my name"
-  },
-  "homepage.qqgroup1": {
-    "message": "QQ 1 群：644722908",
-    "description": "qq group1"
-  },
-  "homepage.qqgroup2": {
-    "message": "QQ 2 群：1004912565",
-    "description": "qq group2"
-  },
-  "homepage.follow.link.href": {
-    "message": "https://space.bilibili.com/302954484?from=search&seid=1788147379248960737",
-    "description": "social link bilibili or twitter"
-  },
-  "去B站关注": {
-    "message": "去B站关注",
-    "description": "follow me btn text"
-  },
-  "homepage.followers": {
-    "message": " {count} 万",
-    "description": "followers"
-  },
   "最新博客": {
     "message": "最新博客",
     "description": "latest blogs heading"
@@ -72,7 +48,7 @@
     "description": "The first paragraph of the 404 page"
   },
   "theme.NotFound.p2": {
-    "message": "或者可能是个 Bug，可以在 Bilibili@峰华前端工程师、QQ 群里私信告知我~!",
+    "message": "或者可能是个 Bug!",
     "description": "The 2nd paragraph of the 404 page"
   },
   "theme.AnnouncementBar.closeButtonAriaLabel": {
@@ -178,6 +154,9 @@
   "theme.docs.sidebar.collapseButtonAriaLabel": {
     "message": "收起菜单",
     "description": "The title attribute for collapse button of doc sidebar"
+  },
+  "theme.TOCCollapsible.toggleButtonLabel": {
+    "message": "目录"
   },
   "theme.docs.versions.unreleasedVersionLabel": {
     "message": "This is unreleased documentation for {siteTitle} {versionLabel} version.",

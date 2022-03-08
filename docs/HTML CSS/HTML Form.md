@@ -1,6 +1,6 @@
 # Form 注意事项
 
-## 1、 enctype属性
+## enctype属性
 
   就是表单提交给服务器的[MIME类型](https://developer.mozilla.org/zh-CN/docs/Web/HTTP/Basics_of_HTTP/MIME_types)。
   HTTP 消息头 Content-Type
@@ -9,6 +9,6 @@
 
   > multipart/form-data：当表单包含 type=file 的 input元素时使用此值。
 
-## 2、method属性
+## method属性
 
   现在（HTML5）仅支持 Post/Get。
