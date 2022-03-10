@@ -115,7 +115,7 @@ const config = {
       },
       algolia: {
         apiKey: "ca68be632c1e2c339de03664c600423a",
-        indexName: "skylooker",
+        indexName: "docsearch",
         appId: "4KIRLWOA9Z",
       },
     }),
