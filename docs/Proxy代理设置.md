@@ -1,7 +1,3 @@
----
-sidebar_position: 3
----
-
 # Proxy代理设置
 
 ## Git

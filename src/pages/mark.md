@@ -6,6 +6,8 @@ title: 书签
 
 1. [MDN](https://developer.mozilla.org/zh-CN/)
 
+2. [JS内置对象](https://developer.mozilla.org/zh-CN/docs/Web/JavaScript/Reference/Global_Objects)
+
 ## CSS HTML
 
 1. [TailwindCSS](https://tailwindcss.com/)
@@ -14,7 +16,7 @@ title: 书签
 
 ## 包管理器
 
-1. [pnpm](https://www.pnpm.cn/)
+1. [Pnpm](https://www.pnpm.cn/)
 
 ## React
 
@@ -34,9 +36,12 @@ title: 书签
 
 8. [Remix](https://remix.run/docs/zh)
 
+9. [ReactRouter](https://reactrouterdotcom.fly.dev/)
+
 ## Vue
 
 1. [Vue](https://v3.cn.vuejs.org/)
+
 > [新的Vue文档(中文正在翻译)](https://vuejs.org/)
 
 2. [ElementPlus](https://element-plus.org/zh-CN/)
@@ -44,6 +49,7 @@ title: 书签
 ## TypeScript
 
 1. [TypeScript](https://www.typescriptlang.org/docs/)
+
 > [TypeScript4.5 中文翻译](https://github.com/zhongsp/TypeScript)
 
 2. [React TypeScript Cheatsheets](https://react-typescript-cheatsheet.netlify.app/)
