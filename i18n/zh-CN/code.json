@@ -7,6 +7,9 @@
     "message": "最新博客",
     "description": "latest blogs heading"
   },
+  "Search docs": {
+    "message": "搜索文档"
+  },
   "blogpage.estimated.time": {
     "message": "预计阅读时间：",
     "description": "blog page estimated time"
@@ -157,6 +160,9 @@
   },
   "theme.TOCCollapsible.toggleButtonLabel": {
     "message": "目录"
+  },
+  "theme.navbar.mobileSidebarSecondaryMenu.backButtonLabel": {
+    "message": "← 回到主菜单"
   },
   "theme.docs.versions.unreleasedVersionLabel": {
     "message": "This is unreleased documentation for {siteTitle} {versionLabel} version.",

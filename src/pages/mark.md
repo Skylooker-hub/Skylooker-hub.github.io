@@ -46,6 +46,8 @@ title: 书签
 
 2. [ElementPlus](https://element-plus.org/zh-CN/)
 
+3. [Vue3.0 + JSX开发](https://zhuanlan.zhihu.com/p/102668383)
+
 ## TypeScript
 
 1. [TypeScript](https://www.typescriptlang.org/docs/)
