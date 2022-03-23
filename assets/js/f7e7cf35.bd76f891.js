@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkblog=self.webpackChunkblog||[]).push([[6457],{9462:function(l){l.exports=JSON.parse('{"allTagsPath":"/blog/tags","slug":"/blog/tags/aligolia","name":"Aligolia","count":1,"permalink":"/blog/tags/aligolia"}')}}]);
