@@ -3,12 +3,12 @@ sidebar_position: 1
 ---
 # 介绍
 
-## Hey 👋
+## 你好 👋
 
 [![GitHub followers](https://img.shields.io/github/followers/skylooker-hub?label=Github%20followers)](https://github.com/Skylooker-hub)
 
-- I am a Front-End coder, living in Guangzhou.
-- How to reach me: huangchenglin1997@qq.com.
+- 我是一名前端工程师，现住在广东省广州市。
+- 联系方式：huangchenglin1997@qq.com
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=skylooker-hub&theme=github_dark)
 

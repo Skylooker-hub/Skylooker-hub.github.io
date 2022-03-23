@@ -1,0 +1,30 @@
+{
+  "version.label": {
+    "message": "Next",
+    "description": "The label for version current"
+  },
+  "sidebar.tutorialSidebar.category.HTML CSS": {
+    "message": "HTML CSS",
+    "description": "The label for category HTML CSS in sidebar tutorialSidebar"
+  },
+  "sidebar.tutorialSidebar.category.TypeScript": {
+    "message": "TypeScript",
+    "description": "The label for category TypeScript in sidebar tutorialSidebar"
+  },
+  "sidebar.tutorialSidebar.category.React": {
+    "message": "React",
+    "description": "The label for category React in sidebar tutorialSidebar"
+  },
+  "sidebar.tutorialSidebar.category.Vue3.0": {
+    "message": "Vue3.0",
+    "description": "The label for category Vue3.0 in sidebar tutorialSidebar"
+  },
+  "sidebar.tutorialSidebar.category.小程序": {
+    "message": "小程序",
+    "description": "The label for category 小程序 in sidebar tutorialSidebar"
+  },
+  "sidebar.tutorialSidebar.category.React Native": {
+    "message": "React Native",
+    "description": "The label for category React Native in sidebar tutorialSidebar"
+  }
+}

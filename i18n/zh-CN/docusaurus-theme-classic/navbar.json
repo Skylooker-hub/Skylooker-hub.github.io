@@ -1,0 +1,22 @@
+{
+  "title": {
+    "message": "Skylooker",
+    "description": "The title in the navbar"
+  },
+  "item.label.知识存档": {
+    "message": "知识存档",
+    "description": "Navbar item with label 知识存档"
+  },
+  "item.label.书签": {
+    "message": "书签",
+    "description": "Navbar item with label 书签"
+  },
+  "item.label.博客": {
+    "message": "博客",
+    "description": "Navbar item with label 博客"
+  },
+  "item.label.GitHub": {
+    "message": "GitHub",
+    "description": "Navbar item with label GitHub"
+  }
+}

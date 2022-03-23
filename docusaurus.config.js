@@ -32,7 +32,7 @@ const config = {
           showReadingTime: true,
           blogTitle: "博客",
           // Please change this to your repo.
-          blogSidebarTitle: "最近的博客",
+          blogSidebarTitle: "最新的博客",
           // editUrl:
           //   "https://github.com/Skylooker-hub/Skylooker-hub.github.io/",
         },
@@ -66,47 +66,7 @@ const config = {
       },
       footer: {
         style: "dark",
-        links: [
-          // {
-          //   title: 'Docs',
-          //   items: [
-          //     {
-          //       label: 'Tutorial',
-          //       to: '/docs/intro',
-          //     },
-          //   ],
-          // },
-          // {
-          //   title: 'Community',
-          //   items: [
-          //     {
-          //       label: 'Stack Overflow',
-          //       href: 'https://stackoverflow.com/questions/tagged/docusaurus',
-          //     },
-          //     {
-          //       label: 'Discord',
-          //       href: 'https://discordapp.com/invite/docusaurus',
-          //     },
-          //     {
-          //       label: 'Twitter',
-          //       href: 'https://twitter.com/docusaurus',
-          //     },
-          //   ],
-          // },
-          // {
-          //   title: 'More',
-          //   items: [
-          //     {
-          //       label: 'Blog',
-          //       to: '/blog',
-          //     },
-          //     {
-          //       label: 'GitHub',
-          //       href: 'https://github.com/facebook/docusaurus',
-          //     },
-          //   ],
-          // },
-        ],
+        links: [],
         copyright: `Copyright © ${new Date().getFullYear()} Skylooker`,
       },
       prism: {
