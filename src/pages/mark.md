@@ -36,7 +36,7 @@ title: 书签
 
 ### 组件库
 
-  1. [rsuite](https://rsuitejs.com/zh/)
+  1. [Rsuite](https://rsuitejs.com/zh/)
 
   2. [Ant Design](https://ant.design/index-cn)
 
@@ -57,6 +57,8 @@ title: 书签
 > [TypeScript4.5 中文翻译](https://github.com/zhongsp/TypeScript)
 
 2. [React TypeScript Cheatsheets](https://react-typescript-cheatsheet.netlify.app/)
+
+3. [Type-Challenges](https://github.com/type-challenges/type-challenges/blob/master/README.zh-CN.md) 
 
 ## 前端构建工具
 
